@@ -1,6 +1,7 @@
 # Seleksi-IRK-NIM_Finder
 
-Versi <strong><i><mark>2 Juni 2022</mark></i></strong>
+Versi <strong><i><mark>3 Juni 2022</mark></i></strong>
+Changelog: Merapikan format readme
 
 ## Latar Belakang
 
@@ -17,7 +18,7 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
 2. (400 poin) Pencarian berdasarkan jurusan (atau fakultas) dan angkatan<br />
    Contoh kasus: 
    - Memasukkan `IF 19` atau `Informatika 19` akan memunculkan semua mahasiswa Teknik Informatika ITB Angkatan 2019. 
-   - - Memasukkan `Informatika` saja akan memunculkan semua mahasiswa Teknik Informatika.
+   - Memasukkan `Informatika` saja akan memunculkan semua mahasiswa Teknik Informatika.
 3. (400 poin) Pencarian berdasarkan nama<br />
    Contoh kasus: 
    - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` 
@@ -26,7 +27,7 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
    Contoh kasus: 
    - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
 5. (200 poin) UIUX
-6. Hasil query setidaknya harus mengandung nama lengkap, 2 buah NIM, dan program studi. Apabilabelum memiliki program studi, data yang ditampilkan adalah NIM seadanya dan fakultas saja.
+6. Hasil query setidaknya harus mengandung nama lengkap, 2 buah NIM, dan program studi. Apabila belum memiliki program studi, data yang ditampilkan adalah NIM seadanya dan fakultas saja.
 7. Untuk kenyamanan bersama, pencarian tidaklah case sensitive
 8. Gunakan [folder ini](https://github.com/mkamadeus/nim-finder-v2/tree/main/src/json) untuk mengisi data mahasiswa (`data_13_21.json`), jurusan, dan fakultas. Disarankan untuk mendownload data-data yang Anda perlukan.
 
