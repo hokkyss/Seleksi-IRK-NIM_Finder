@@ -1,7 +1,9 @@
 # Seleksi-IRK-NIM_Finder
 
-Versi <strong><i><mark>3 Juni 2022</mark></i></strong>
-Changelog: Merapikan format readme
+Versi <strong><i>4 Juni 2022</i></strong>
+Changelog: 
+- Merapikan format readme
+- Menambahkan interval waktu demo
 
 ## Latar Belakang
 
@@ -42,7 +44,7 @@ Note: <i>Sebelum mengerjakan bonus, pastikan Anda sudah memenuhi spesifikasi waj
 
 1. Buatlah sebuah repository <strong>private</strong> pada [github](https://github.com) Anda dan undanglah `hokkyss` ke dalam repository tersebut.
 2. Buatlah issue di dalam repository ini untuk bertanya
-3. Untuk pengumpulan, bisa isi [form ini](https://forms.gle/H1DHbotY2BE3chpE8), lalu hubungi line `@hokkyss` untuk menjadwalkan demo
+3. Untuk pengumpulan, bisa isi [form ini](https://forms.gle/H1DHbotY2BE3chpE8), lalu hubungi line `@hokkyss` untuk menjadwalkan demo. Demo dilaksanakan di jangka waktu 06.00 - 08.00 dan 22.30 - 23.30.
 
 ## Credit
 
