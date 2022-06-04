@@ -1,9 +1,11 @@
 # Seleksi-IRK-NIM_Finder
 
 Versi <strong><i>4 Juni 2022</i></strong>
+
 Changelog: 
 - Merapikan format readme
 - Menambahkan interval waktu demo
+- Menambahkan contoh kasus nama
 
 ## Latar Belakang
 
@@ -24,7 +26,8 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
 3. (400 poin) Pencarian berdasarkan nama<br />
    Contoh kasus: 
    - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` 
-   - Memasukkan `Fis` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA (dan tidak mencari berdasarkan nama).
+   - Memasukkan `Muhammad Fisika` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA (dan <strong>tidak</strong> mencari berdasarkan nama).
+   - Memasukkan `Hokki Suwanda` akan memunculkan semua mahasiswa yang namanya mengandung `hokki` dan `suwanda` diikuti dengan yang mengandung `hokki` atau `suwanda`
 4. (600 poin) Mengkombinasikan dan menggabungkan ketiga fitur pencarian di atas.<br />
    Contoh kasus: 
    - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
