@@ -6,6 +6,7 @@ Changelog:
 - Merapikan format readme
 - Menambahkan interval waktu demo
 - Menambahkan contoh kasus nama
+- Menambahkan keterangan penilaian
 
 ## Latar Belakang
 
@@ -48,6 +49,7 @@ Note: <i>Sebelum mengerjakan bonus, pastikan Anda sudah memenuhi spesifikasi waj
 1. Buatlah sebuah repository <strong>private</strong> pada [github](https://github.com) Anda dan undanglah `hokkyss` ke dalam repository tersebut.
 2. Buatlah issue di dalam repository ini untuk bertanya
 3. Untuk pengumpulan, bisa isi [form ini](https://forms.gle/H1DHbotY2BE3chpE8), lalu hubungi line `@hokkyss` untuk menjadwalkan demo. Demo dilaksanakan di jangka waktu 06.00 - 08.00 dan 22.30 - 23.30.
+4. Urutan pengumpulan akan dilihat berdasarkan waktu <strong>commit</strong>.
 
 ## Credit
 
