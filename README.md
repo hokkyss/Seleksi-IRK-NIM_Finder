@@ -30,7 +30,7 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
    - Memasukkan `Hokki Suwanda` akan memunculkan semua mahasiswa yang namanya mengandung `hokki` atau `suwanda`
 4. (600 poin) Mengkombinasikan dan menggabungkan ketiga fitur pencarian di atas.<br />
    Contoh kasus: 
-   - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
+   - Salah satu hasil untuk query `Tito IF 19 007` atau `IF 19 Tito 007` adalah `Muhammad Tito Prakasa`
    - Memasukkan `Muhammad Fisika` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA (dan <strong>tidak</strong> mencari berdasarkan nama).
    - Memasukkan `Muhammad Fisika 20` akan memunculkan mahasiswa Fisika angkatan 2020 yang namanya mengandung `Muhammad`
 5. (200 poin) UIUX
