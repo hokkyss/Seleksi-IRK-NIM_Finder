@@ -27,7 +27,7 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
 3. (400 poin) Pencarian berdasarkan nama<br />
    Contoh kasus: 
    - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` 
-   - Memasukkan `Hokki Suwanda` akan memunculkan semua mahasiswa yang namanya mengandung `hokki` dan `suwanda` diikuti dengan yang mengandung `hokki` atau `suwanda`
+   - Memasukkan `Hokki Suwanda` akan memunculkan semua mahasiswa yang namanya mengandung `hokki` atau `suwanda`
 4. (600 poin) Mengkombinasikan dan menggabungkan ketiga fitur pencarian di atas.<br />
    Contoh kasus: 
    - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
