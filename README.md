@@ -28,6 +28,7 @@ NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan
    Contoh kasus: 
    - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` 
    - Memasukkan `Muhammad Fisika` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA (dan <strong>tidak</strong> mencari berdasarkan nama).
+   - Memasukkan `Muhammad Fisika 20` akan memunculkan mahasiswa Fisika angkatan 2020 yang namanya mengandung `Muhammad`
    - Memasukkan `Hokki Suwanda` akan memunculkan semua mahasiswa yang namanya mengandung `hokki` dan `suwanda` diikuti dengan yang mengandung `hokki` atau `suwanda`
 4. (600 poin) Mengkombinasikan dan menggabungkan ketiga fitur pencarian di atas.<br />
    Contoh kasus: 
